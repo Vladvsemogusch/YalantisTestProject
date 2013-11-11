@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YalantisTest/YalantisTest.iml" filepath="$PROJECT_DIR$/YalantisTest/YalantisTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YalantisTestProject.iml" filepath="$PROJECT_DIR$/YalantisTestProject.iml" />
+    </modules>
+  </component>
+</project>
+
